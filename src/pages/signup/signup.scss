@@ -1,0 +1,24 @@
+page-signup {
+	height: 100%;
+	.logo{
+		text-align:center;
+	}
+	.item-block{
+		padding-top: 10px !important;
+	}
+	.forgot-password{
+		text-align:center;
+		margin-top: 40px;
+		cursor:pointer;
+		p{
+		text-align: center;
+		a{
+			text-decoration: none;
+			font-size:16px;
+		}
+		}
+		.login-btn{
+			
+		}
+	}
+}

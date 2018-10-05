@@ -1,0 +1,7 @@
+{
+  "name": "tenon",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
